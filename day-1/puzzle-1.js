@@ -2007,5 +2007,5 @@ for (i = 0; i < depthArray.length; i++){
   if(nextIndex > currIndex) {
     newArray.push(nextIndex);
   }
-  console.log(newArray.length);
 }
+console.log(newArray.length);
